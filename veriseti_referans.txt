@@ -1,0 +1,101 @@
+GRUP;CUMLE
+A;Ahmet dün akşam büyük bir konser organizasyonu yaptı.
+A;Elif tatilde İtalya’nın tarihi şehirlerini gezdi.
+A;Mustafa, yeni kitabı için İstanbul’da bir söyleşi düzenledi.
+A;Zeynep bu sabah başarılı bir sunum gerçekleştirdi.
+A;Mehmet, derin araştırmalarıyla bilimsel makalesini tamamladı.
+B;Yeni tasarım ödülü jüri tarafından verildi.
+B;Görsel içerikler uzmanlar tarafından dikkatle incelendi.
+B;Mektuplar dün sabah kargo ile gönderildi.
+B;Film eleştirmenler tarafından olumlu yorumlar aldı.
+B;Raporda öneriler detaylıca değerlendirildi.
+B;Çalışmalar akademisyenler tarafından büyük ilgi gördü.
+B;Güncellemeler kullanıcılar tarafından test edildi.
+B;Kültürel etkinlikler belediye tarafından desteklendi.
+B;Proje toplantıları geçen hafta tamamlandı.
+B;Araştırma verileri özenle analiz edildi.
+C;Yeni şehir planları uzman ekip tarafından onaylandı.
+C;Konser biletleri geçen hafta hızla tükenmişti.
+C;Sergideki sanat eserleri büyük ilgiyle izlendi.
+C;Tüm öneriler yönetim kurulu tarafından incelendi.
+C;Çalışmalar detaylı bir şekilde raporlandı.
+C;Makaleler akademik çevreler tarafından dikkatle değerlendirildi.
+C;Belirtilen hedefler kapsamlı stratejilerle desteklendi.
+C;Yeni yazılım tüm test süreçlerinden geçti.
+C;Öğrenci projeleri öğretmenler tarafından ödüllendirildi.
+C;Spor karşılaşmaları canlı yayınla sunuldu.
+C;Kitap lansmanı büyük bir organizasyonla gerçekleştirildi.
+C;Günlük analizler uzmanlar tarafından dikkatle yapıldı.
+C;Konferanstaki tüm konuşmalar kayıt altına alındı.
+C;Yeni kararlar yönetim ekibi tarafından duyuruldu.
+C;Eğitim programları öğretmenler tarafından revize edildi.
+D;Öğrenciler sınav sonuçlarını bugün aldılar.
+D;Bilim insanları yeni keşifler yaptılar.
+D;Belediye yeni projeleri duyurdu.
+D;Sporcular yarışa büyük bir heyecanla başladı.
+D;Film ekibi çekimleri tamamladı.
+D;Yazar yeni kitabını tanıttı.
+D;Doktor hastaya önemli bilgiler verdi.
+D;Şirket yeni yatırımlara yöneldi.
+D;Teknoloji firması yeni ürünleri tanıttı.
+D;Sanatçılar konserlerinde büyük beğeni topladı.
+D;Fabrika üretim kapasitesini artırdı.
+D;Turistler şehrin en ünlü yerlerini gezdi.
+D;Öğretmen öğrencilere önemli dersler verdi.
+D;Çalışanlar projelerini başarıyla tamamladı.
+D;Araştırmacılar verileri detaylıca analiz etti.
+D;Spor kulübü yeni üyeler kazandı.
+D;Mühendisler inovatif çözümler geliştirdi.
+D;Eğitimciler seminerde büyük katkılar sundular.
+D;Ekonomi uzmanları piyasa verilerini yorumladı.
+D;Katılımcılar etkinlikte aktif olarak yer aldı.
+E;Öğrenciler kapsamlı bir araştırma projesi hazırladılar.
+E;Bilim insanları çevre kirliliği üzerine yeni çalışmalar sundu.
+E;Şirket yöneticileri inovatif stratejiler geliştirerek pazara yön verdi.
+E;Yazılım mühendisleri yeni bir mobil uygulama geliştirdiler.
+E;Sporcular yoğun antrenmanlarla turnuvaya hazırlandılar.
+E;Doktorlar sağlık konferansında değerli bilgiler sundular.
+E;Yazarlar edebiyat festivalinde eserlerini tanıttılar.
+E;Araştırmacılar iklim değişikliğine ilişkin verileri değerlendirdiler.
+E;Eğitimciler derslerde interaktif yöntemler kullandılar.
+E;Belediye yeşil alanları artırmak için yeni planlar hazırladı.
+E;Öğretmenler öğrencilere yaratıcı öğrenme teknikleri sundular.
+E;Müze çalışanları sergileri ziyaretçilere tanıttılar.
+E;Tiyatro oyuncuları gösterilerine büyük özen gösterdiler.
+E;Girişimciler yeni iş fikirlerini yatırımcılara sundular.
+E;Mimarlar şehrin modernleşmesi için projeler geliştirdiler.
+E;Öğrenci kulüpleri etkinlikler düzenleyerek katılımcıları ağırladılar.
+E;Çevreciler sürdürülebilir enerji kaynaklarını inceleyerek öneriler sundular.
+E;Üniversite akademisyenleri küresel sorunları tartışmak için bir araya geldiler.
+E;Gazeteciler önemli röportajlarla gündemi şekillendirdiler.
+E;İş insanları ekonomik reformlar hakkında görüşmeler yaptılar.
+E;Şairler şiir dinletilerinde izleyicilere eserlerini sundular.
+E;Sosyal medya uzmanları dijital kampanyalar hakkında bilgilendirme yaptılar.
+E;Gönüllüler topluluk projelerinde aktif rol aldılar.
+E;Film yapımcıları uluslararası festivallere katıldılar.
+E;Spor koçları atletlerin performansını geliştirmek için özel eğitimler verdiler.
+E;Eğitimciler teknoloji destekli öğrenme sistemleri tasarladılar.
+E;Tarihçiler önemli arşiv belgelerini derinlemesine analiz ettiler.
+E;Psikologlar bireysel gelişim süreçleri üzerine çalışmalar yaptılar.
+E;Programcılar yapay zeka algoritmalarını optimize ettiler.
+E;Tasarımcılar yeni grafik trendlerini incelerek projelerini güncellediler.
+E;Ressamlar sanat galerilerinde yeni eserlerini sergilediler.
+E;Üreticiler çevre dostu materyaller kullanarak inovatif çözümler geliştirdiler.
+E;Müzisyenler kültürel etkinliklerde farklı melodiler sundular.
+E;Hukuk uzmanları yeni yasaları değerlendirerek akademik makaleler yazdılar.
+E;Astronomlar uzay keşifleri üzerine kapsamlı raporlar hazırladılar.
+E;Ekonomistler piyasadaki değişimleri analiz ederek tahminler yaptılar.
+E;Genç girişimciler kendi markalarını yaratmak için çalışmalar yürüttüler.
+E;Fotoğrafçılar şehir manzaralarını yakalayarak sergiler düzenlediler.
+E;Eğitmenler kişisel gelişim seminerlerinde motivasyon konuşmaları yaptılar.
+E;Mutfak şefleri restoranlarda özel menüler oluşturdular.
+E;Üniversiteler akademik konferanslarla bilim insanlarını bir araya getirdiler.
+E;Spor analistleri takımların performansını detaylıca değerlendirdiler.
+E;Diplomatlar uluslararası ilişkiler üzerine toplantılar gerçekleştirdiler.
+E;Çevre mühendisleri sürdürülebilir enerji çözümleri üzerine öneriler sundular.
+E;Sanat koleksiyoncuları müzayede etkinliklerinde özel eserler satın aldılar.
+E;Veterinerler hayvan sağlığı üzerine bilgilendirme yaptılar.
+E;Otomotiv tasarımcıları yeni araç modelleri geliştirmek için çalışmalar yürüttüler.
+E;Bilgi güvenliği uzmanları siber tehditleri analiz ederek önlemler aldılar.
+E;Topluluk liderleri yerel projeleri destekleyerek toplumun gelişimine katkı sağladılar.
+E;Gezi rehberleri turistlere kültürel miras hakkında rehberlik ettiler.
