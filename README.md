@@ -1,5 +1,5 @@
 # ayuproje
-Ahmet Yesevi Üniversitesi yüksek lisans proje ödevi için açılan alandır.
+Ahmet Yesevi Üniversitesi tezsiz yüksek lisans proje ödevi için açılan alandır.
 
 Proje konusu kapsamında geliştirilen bu yazılımın amacı, LLM çıktılarının Türkçe cümle yapısı açısından doğruluk ve akıcılığına ilişkin bir metrik oluşturmaktır.
 
@@ -17,5 +17,4 @@ Proje kapsamında yapılan çalışmaların tekrarı için şu adımlar uygulan�
      2.2) Jupyter_notebook üzerinde zaten tek bir kod penceresi vardır. Bu kod penceresi çalıştırılır.
      2.3) Tüm puanlamaları içeren "output.txt" dosyası oluşur.
 
-Proje bağımlılıkları olarak "tokenizer.py" bulunmaktadır ve aşağıdaki adresin geçerli ve erişilebilir olması gereklidir:
-  https://huggingface.co/Buseak/canine_2303 
+"tokenizer.py" adlı modüle bağımlılık bulunmamaktadır. Denemeler aşamasında kullanılmış sonrasında "stanza" kütüphanesinin tokenizer metodu tercih edilmiştir.
